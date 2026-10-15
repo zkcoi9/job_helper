@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         小臣版AI-boss海投助手
 // @namespace    https://github.com/DYxiaochen
-// @version      2.2.0.0
+// @version      2.3.0.0
 // @description  基于Yangshengzhou开源项目改进的求职工具！小臣开发用于提高BOSS直聘投递效率，AI智能回复，批量沟通，高效求职
 // @author       小臣 (基于Yangshengzhou开源项目)
 // @match        https://www.zhipin.com/web/*
@@ -11,6 +11,14 @@
 // @homepageURL  https://github.com/DYxiaochen/AI-BossJob
 // @license      AGPL-3.0-or-later
 // @icon         https://gitee.com/Yangshengzhou/jobs_helper/raw/Boss/assets/icon.ico
+// @connect      zhipin.com
+// @connect      192.168.31.136
+// @connect      spark-api-open.xf-yun.com
+// @connect      jasun.xyz
+// @connect      api.siliconflow.cn
+// @connect      ark.cn-beijing.volces.com
+// @connect      api.openai.com
+// @connect      api.deepseek.com
 // @connect      *
 // @noframes
 // @require      https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js

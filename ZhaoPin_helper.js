@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         智联海投助手
 // @namespace    https://github.com/DYxiaochen
-// @version      1.3.0.0
+// @version      1.4.0.0
 // @description  移植自小臣版AI-Boss海投助手（基于Yangshengzhou开源项目）。适配智联招聘新版双栏职位页，自动扫描岗位、批量投递；并支持 i.zhaopin.com 消息页的 AI 自动回复
 // @author       移植版 (原作: 小臣 / Yangshengzhou)
 // @match        https://www.zhaopin.com/*
@@ -16,6 +16,15 @@
 // @homepageURL  https://github.com/DYxiaochen/AI-BossJob
 // @license      AGPL-3.0-or-later
 // @icon         https://gitee.com/Yangshengzhou/jobs_helper/raw/Boss/assets/icon.ico
+// @connect      zhaopin.com
+// @connect      *.zhaopin.com
+// @connect      192.168.31.136
+// @connect      spark-api-open.xf-yun.com
+// @connect      jasun.xyz
+// @connect      api.siliconflow.cn
+// @connect      ark.cn-beijing.volces.com
+// @connect      api.openai.com
+// @connect      api.deepseek.com
 // @connect      *
 // @noframes
 // @require      https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js
